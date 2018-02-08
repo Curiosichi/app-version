@@ -1,0 +1,25 @@
+{
+  "name": "app-version",
+  "version": "0.0.1",
+  "description": "simple angular 5 module for getting the current version of your app",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curiosichi/app-version.git"
+  },
+  "keywords": [
+    "app",
+    "version",
+    "angular",
+    "5"
+  ],
+  "author": "Curiosichi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curiosichi/app-version/issues"
+  },
+  "homepage": "https://github.com/curiosichi/app-version#readme"
+}
